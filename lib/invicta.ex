@@ -16,3 +16,11 @@ defmodule Invicta do
     :world
   end
 end
+
+defmodule Invicta.Map do
+  defstruct [:starsystems] 
+end
+
+defmodule Invicta.StarSystem do
+  defstruct [:id, :connections] 
+end

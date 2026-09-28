@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="3840"
+   height="2160"
+   viewBox="0 0 3840 2160"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   sodipodi:docname="example_galaxy.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#282828"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.584443"
+     inkscape:cx="1841.3411"
+     inkscape:cy="1801.8951"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer4" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="swatch2"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fe216b;stop-opacity:1;"
+         offset="0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="swatch1"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#swatch2"
+       id="linearGradient2"
+       x1="862.89413"
+       y1="746.63464"
+       x2="897.97708"
+       y2="746.63464"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Connections">
+    <path
+       style="fill:#2a8cf2;fill-opacity:1;stroke:#42afe9;stroke-width:1.00157;stroke-opacity:1"
+       d="M 1212.0992,787.23967 1525.3884,620.33058"
+       id="path11"
+       inkscape:label="connection-mars-jupyter" />
+    <path
+       style="fill:#2a8cf2;fill-opacity:1;stroke:#42afe9;stroke-width:1.00157;stroke-opacity:1"
+       d="m 878.54219,746.0035 337.02701,44.17956"
+       id="path12"
+       inkscape:label="connection-venus-mars" />
+    <path
+       style="fill:#2a8cf2;fill-opacity:1;stroke:#42afe9;stroke-width:1.00157;stroke-opacity:1"
+       d="M 1704.5703,967.09091 1526.0884,615.98935"
+       id="path13"
+       inkscape:label="connection-jupyter-sol" />
+    <path
+       style="fill:#2a8cf2;fill-opacity:1;stroke:#42afe9;stroke-width:1.00157;stroke-opacity:1"
+       d="m 2005.4366,1650.7379 -29.6634,-39.1305"
+       id="path14"
+       inkscape:label="connection-lepra-luna" />
+  </g>
+  <g
+     inkscape:label="StarSystems"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#cbf321">
+    <circle
+       style="fill:url(#linearGradient2);fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path1"
+       cx="880.43561"
+       cy="746.63464"
+       r="17.040689"
+       inkscape:label="star-venus" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path2"
+       cx="1213.438"
+       cy="785.00824"
+       r="22.76033"
+       inkscape:label="star-mars" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path4"
+       cx="1526.281"
+       cy="618.54547"
+       r="27.669422"
+       inkscape:label="star-jupyter" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path5"
+       cx="1975.4576"
+       cy="1611.923"
+       r="20.196373"
+       inkscape:label="star-lepra" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path6"
+       cx="2516.9729"
+       cy="1219.356"
+       r="11.360459"
+       inkscape:label="star-kona" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path7"
+       cx="2403.3684"
+       cy="1547.547"
+       r="10.098186"
+       inkscape:label="star-merra" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path8"
+       cx="2005.7522"
+       cy="1650.4222"
+       r="3.155683"
+       inkscape:label="star-luna" />
+    <circle
+       style="fill:#da0c64;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path9"
+       cx="2125.1902"
+       cy="1020.1984"
+       r="6.2479339"
+       inkscape:label="star-terra" />
+    <circle
+       style="fill:#2a8cf2;fill-opacity:1;stroke:#d0185c;stroke-width:1.00157"
+       id="path10"
+       cx="1704.7001"
+       cy="966.90131"
+       r="2.5245466"
+       inkscape:label="star-sol" />
+  </g>
+</svg>
