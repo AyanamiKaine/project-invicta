@@ -21,6 +21,8 @@ A character as a leader of a nation should impact the world differently from a p
     3.7 Rim World
     3.8 Endless Legend 1/2
 
+4. Engine
+
 ## 3. Insperations and their Critiques
 
 ### 3.1 Paradox in General
@@ -109,3 +111,33 @@ Each faction you can play is good at a specific thing and giving you one big con
 Maybe you cannot use one ressource but use another already existing one more? This is much better than the problem in paradox games where unique features are not that deeply interconnected with the world itself.
 
 It does not matter that Russia in EU4 has specific mechanics. A Poland player would not notice. You dont play Russia differently, so others dont see different behavior. In Endless Legend you see it everywhere. On the map, in their behavior, diplomacy, art, voice lines, etc.
+
+
+## 4. Engine
+
+The game engine will be split into two parts, one for the underlying simulation logic written in **Elixir** and a representation layer that actually visualizes and lets the player interact with it.
+
+The engine will be heavily data driven so developers like modders will use the same underyling system to add new content.
+
+```txt
+// A comment explaining things...
+good gold = {
+    type = "rare ressource"
+}
+```
+
+This is an example **placeholder** idea how it can look like adding new goods to the simulation.
+
+### 4.1 Defining the Map as Data
+
+You would assume defining the game map as data would look similarly as the goods example, text in file. But there is a big case it actually should look like a real map that you paint instead of write in text. 
+
+Paradox games used this approach, but it is also important to know that the approach is powerful but needs tooling to be accesiable for modders and us a like. There pixel color decides how a province looks like and if they connect to each other. You dont need to write adjacent lists, the graph of the map is visually already inside the map file itself.
+
+#### SVGs
+
+We want to use SVGs with some tolerance for connections between star systems so we can draw lines between them and they auto snap to the nearest star system.
+
+A seperate map validator module would be created and used to validate if the map is actually correct and give the user good feedback on what is wrong or right. This feedback should be possible BEFORE starting the game. We want a fast feeback loop.
+
+Using SVGs we also get the bonus of ids we can directly give a star system an ID for example in inkscape as a name for the element. So we dont need to relay on color given.
