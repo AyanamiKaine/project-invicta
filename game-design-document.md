@@ -19,6 +19,7 @@ A character as a leader of a nation should impact the world differently from a p
     3.5 X4-Foundations
     3.6 Dwarf Fortress
     3.7 Rim World
+    3.8 Endless Legend 1/2
 
 ## 3. Insperations and their Critiques
 
@@ -97,4 +98,14 @@ Its political systems look deep on the surface but dont go any further. In gener
 
 If you remove the ability for the player to build buildings and change their production methods there would be hardly a game left. The most tedious mirco management part of Victoria 3 is the game. Man do I love green number goes up.
 
+### 3.7 Endless Legend 1/2
 
+Endless Legends 1 and 2 are sooo good because they have this incredible one last turn feeling. You always get a new goal to pursure after you finished the previous one.
+
+You always know what to do next, the ui tells all you options you have without overloading you.
+
+Each faction you can play is good at a specific thing and giving you one big constrained what you cannot do. Maybe you cannot have more then one big city, maybe you cant have one big city but only many small ones.
+
+Maybe you cannot use one ressource but use another already existing one more? This is much better than the problem in paradox games where unique features are not that deeply interconnected with the world itself.
+
+It does not matter that Russia in EU4 has specific mechanics. A Poland player would not notice. You dont play Russia differently, so others dont see different behavior. In Endless Legend you see it everywhere. On the map, in their behavior, diplomacy, art, voice lines, etc.
