@@ -4,6 +4,10 @@ Project Invicta is my dream grand strategy game. Its a character based story gen
 
 **Its more then a simulation but not less.**
 
+Imagine being a character in a world that has real impact on that world in your position.
+
+A character as a leader of a nation should impact the world differently from a player playing the head of a company.
+
 ## 2. Outline
 1. Intro
 2. Outline
